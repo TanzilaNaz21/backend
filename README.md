@@ -5,9 +5,9 @@ from datetime import datetime, timedelta
 
 # NOTE: Update these with your actual PostgreSQL credentials
 DB_HOST = "localhost"
-DB_NAME = "your_database_name"
-DB_USER = "your_username"
-DB_PASSWORD = "your_password"
+DB_NAME = "DBMS EXAM"
+DB_USER = "postgresql"
+DB_PASSWORD = "goodgirl20@"
 
 def get_connection():
     """Establishes a connection to the PostgreSQL database."""
